@@ -8,8 +8,8 @@ R api rest for machine learning model
 saveRDS(model, file = "model.rds")
 ```
 
-2. **Créer une API RESTful avec R
-- Utilisez un framework comme Plumber pour créer une API RESTful qui hébergera votre modèle.**
+2. **Créer une API RESTful avec R**
+- Utilisez un framework comme Plumber pour créer une API RESTful qui hébergera votre modèle.
 ```R
 library(plumber)
 
